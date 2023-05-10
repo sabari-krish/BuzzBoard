@@ -9,7 +9,7 @@ Create a new Node.js project
 
 Install dependencies:
 
-    npm install express mongoose bcrypt jsonwebtoken dotenv cors
+    npm install express mongoose
 
     express: A web framework for Node.js.
 
